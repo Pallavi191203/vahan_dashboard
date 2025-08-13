@@ -124,4 +124,13 @@ vahan_dashboard/
 
 * 2W category consistently dominates new registrations across multiple states.
 * Significant QoQ spikes in EV registrations observed in certain metros — potential for EV-focused investments.
+## 📷 Screenshots
 
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
+
+### Filters in Action
+![Filters](screenshots/filters.png)
+
+### Charts
+![Charts](screenshots/charts.png)
