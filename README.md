@@ -124,13 +124,17 @@ vahan_dashboard/
 
 * 2W category consistently dominates new registrations across multiple states.
 * Significant QoQ spikes in EV registrations observed in certain metros — potential for EV-focused investments.
-## 📷 Screenshots
+## 📷 Project Screenshots
 
-### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Dashboard Overview" width="300"/>
+  <img src="screenshots/filters.png" alt="Filters in Action" width="300"/>
+  <img src="screenshots/charts.png" alt="Trend Charts" width="300"/>
+</p>
 
-### Filters in Action
-![Filters](screenshots/filters.png)
+---
 
-### Charts
-![Charts](screenshots/charts.png)
+### 🖼 Description:
+- **Dashboard Overview** → Displays the main interface with aggregated vehicle registration stats and graphs.  
+- **Filters in Action** → Shows how users can filter data by date range, vehicle type, and manufacturer.  
+- **Trend Charts** → Highlights YoY and QoQ growth visualizations for investor insights.
