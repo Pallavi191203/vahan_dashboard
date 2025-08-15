@@ -114,9 +114,9 @@ vahan_dashboard/
 
 ---
 
-## 📽️ Video Walkthrough
+## 📽️ Project Walkthrough Video
 
-[Click here to watch the demo](#)
+Watch the full project walkthrough here: [Click to Watch on Loom](https://www.loom.com/share/60a6b5cf96734e7697f55c65e2e0d8f6?sid=b5d566dc-bf48-4470-8ba2-e5399c872bc1)
 
 ---
 
